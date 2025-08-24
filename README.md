@@ -1,2 +1,45 @@
-# Resume-Builder-Web-Application
-Developed a Flask-based Resume Builder web application that allows users to input personal, educational, and professional details through a web form and generate a downloadable PDF resume. Used PDFKit and wkhtmltopdf to convert HTML templates into printable PDF format. Designed with a clean Bootstrap UI for responsiveness and easy navigation..
+
+#  Resume Builder using Flask
+
+A simple web-based Resume Builder built with Python Flask. Users can input their details and generate a resume in PDF format.
+
+## Features
+
+ Input your resume details using a web form
+ Preview resume in browser
+ Download a clean PDF version
+ Built with Flask + Bootstrap
+ Easy to use and extend
+
+
+---
+
+## 📸 Screenshot
+
+![Resume Builder Screenshot](screenshot.png)
+
+---
+
+# Technologies Used
+
+- Python 3
+- Flask
+- Bootstrap 5
+- PDFKit
+- wkhtmltopdf
+
+---
+
+#  Installation
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/Amrapali99/resume-builder.git
+cd resume-builder
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the Flask app
+python app.py
+
