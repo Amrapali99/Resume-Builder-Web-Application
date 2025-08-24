@@ -16,7 +16,7 @@ A simple web-based Resume Builder built with Python Flask. Users can input their
 
 ## 📸 Screenshot
 
-![Resume Builder Screenshot](screenshot.png)
+![App Screenshot](assets/screenshot.png)
 
 ---
 
